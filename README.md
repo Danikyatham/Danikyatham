@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">• Data Enthusiast | Aspiring Data Analyst 📊 • Skilled in SQL, Python, Excel, Power BI & Tableau | Turning raw data into actionable insights that fuel business growth</h3>
+<h3 align="center">• Data Enthusiast | Aspiring Data Analyst 📊 • Skilled in SQL, Python, Excel, Power BI & Tableau
+  Turning raw data into actionable insights that fuel business growth</h3>
 
 - 👨‍💻 Explore my projects and dashboards: [Portfolio](http://datascienceportfol.io/daniikyatham)  
 
